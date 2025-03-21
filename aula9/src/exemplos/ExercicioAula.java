@@ -14,7 +14,7 @@ public class ExercicioAula {
 				if (i % 2 == 0) {
 					total++;
 					System.out.println("Java");
-					
+					System.out.println("teste");
 				}
 
 			}
