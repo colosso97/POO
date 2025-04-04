@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\serratec-2025-1-20250311T180106Z-001\serratec-2025-1\java\POO\.metadata\.plugins\org.eclipse.jdt.core
+1590169572.index
+1865797976.index
+2502968147.index
+3351338590.index

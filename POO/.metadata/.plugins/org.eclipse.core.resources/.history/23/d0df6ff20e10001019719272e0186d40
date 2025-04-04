@@ -1,0 +1,11 @@
+package exercicios;
+
+public class Pessoa {
+	int id;
+	String nome;
+	float peso, altura;
+	
+	public double calcularIMC() {
+		return peso/(altura * altura);
+	}
+}

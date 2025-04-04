@@ -1,0 +1,41 @@
+package br.com.serratec.heranca;
+
+public class Empregado {
+	private String nome;
+	private String email;
+	private String teledone;
+	
+	
+	
+	public Empregado(String nome, String email, String teledone) {
+		this.nome = nome;
+		this.email = email;
+		this.teledone = teledone;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getTeledone() {
+		return teledone;
+	}
+
+	public void setTeledone(String teledone) {
+		this.teledone = teledone;
+	}
+	
+	
+}

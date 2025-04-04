@@ -1,0 +1,10 @@
+package br.com.serratec.testes;
+
+public class TestePedido {
+
+	public static void main(String[] args) {
+
+		Pedido pedido1 = new Pedido(123,LocalDate.of(2025,02,03),2000.);
+	}
+
+}
